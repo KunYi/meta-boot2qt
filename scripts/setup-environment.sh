@@ -65,6 +65,9 @@ if [ ! -f ${PWD}/${BUILDDIRECTORY}/conf/bblayers.conf ]; then
     imx6dltinto)
       LAYERSCONF="bblayers.conf.tinto.sample"
     ;;
+    imx6dlbobo9|imx6dlbobo12)
+      LAYERSCONF="bblayers.conf.bobo.sample"
+    ;;
     smarc-samx6i)
       LAYERSCONF="bblayers.conf.smx6.sample"
     ;;

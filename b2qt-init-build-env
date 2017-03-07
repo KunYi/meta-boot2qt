@@ -112,7 +112,7 @@ get_groups() {
     imx6qsabresd|imx6dlsabresd|nitrogen6x|imx7dsabresd)
       PROJECT_GROUPS="fsl"
     ;;
-    imx6dltinto)
+    imx6dltinto|imx6dlbobo9|imx6dlbobo12)
       PROJECT_GROUPS="fsl"
     ;;
     smarc-samx6i)
