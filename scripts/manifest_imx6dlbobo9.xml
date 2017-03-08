@@ -61,7 +61,7 @@
            revision="d20e5bffb582c6bfabdadc22e903df86c8cfd66b"
            path="sources/meta-renesas"
            groups="notdefault,external,renesas"/>
-   <project name="meta-bobo"
+   <project name="meta-bobo-boot2qt"
            revision="refs/heads/master"
            remote="uti"
            path="sources/meta-bobo"
